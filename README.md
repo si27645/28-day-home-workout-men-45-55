@@ -1,27 +1,40 @@
-# 28-Day Military Workout — Adapted for a 48-Year-Old Man
+# 28-Day Home Workout — Men Aged 45–55
 
-This is a joint-friendly, recovery-aware rewrite of the ["28-Day Military
-Workout"](https://www.gymnasetips.com/28-day-military-workout/) from
-gymnasetips.com. The original is built for a young, already-conditioned
+This is a joint-friendly, recovery-aware, **fully at-home** rewrite of the
+["28-Day Military Workout"](https://www.gymnasetips.com/28-day-military-workout/)
+from gymnasetips.com. The original is built for a young, already-conditioned
 trainee: it stacks training on **all 28 days with zero built-in rest**,
-escalates jump-squat/burpee volume every week, and ends with "for time" max
-tests (2-minute max push-ups, max sit-ups, max pull-ups, timed runs).
+escalates jump-squat/burpee volume every week, needs a pull-up bar, and
+uses outdoor timed runs — then ends with "for time" max tests (2-minute
+max push-ups, max sit-ups, max pull-ups).
 
-At 48, connective tissue (tendons, ligaments, cartilage) recovers more slowly
-than at 20–25, and untested high-impact plyometrics + zero rest days is the
-classic recipe for tendinopathy, lower-back flare-ups, and shin/knee
-overuse injuries. This version keeps the same 4-week arc and roughly the
-same total training stimulus, but changes three things:
+At 45–55, connective tissue (tendons, ligaments, cartilage) recovers more
+slowly than at 20–25, and untested high-impact plyometrics + zero rest days
+is the classic recipe for tendinopathy, lower-back flare-ups, and
+shin/knee overuse injuries. This version keeps the same 4-week arc and
+roughly the same total training stimulus, but changes four things:
 
-1. **Real rest days** — 2 full rest days + 1 optional easy day per week,
+1. **Fully home-based, no pull-up bar needed** — built around **adjustable
+   dumbbells/kettlebells and a stationary bike** only. Pull-ups are
+   replaced with loaded dumbbell rows; outdoor timed runs are replaced
+   with stationary-bike intervals/time trials.
+2. **Real rest days** — 2 full rest days + 1 optional easy day per week,
    instead of a rotation with no rest at all.
-2. **Lower-impact substitutions** — jump squats, burpees, and sit-ups are
-   swapped for knee/spine-friendlier variants (step-ups, step-back burpees,
-   dead bugs) especially in the early weeks.
-3. **Gentler, capped progression** — volume still increases week to week,
+3. **Lower-impact substitutions** — jump squats, burpees, and sit-ups are
+   swapped for knee/spine-friendlier variants (step-ups, step-back
+   burpees, dead bugs) especially in the early weeks.
+4. **Gentler, capped progression** — volume still increases week to week,
    but from a lower baseline and with smaller jumps, and the final "max
    test" week is softened into a form-first assessment rather than an
    all-out max-rep test.
+
+## Equipment
+
+- A pair of adjustable dumbbells or kettlebells (or two fixed pairs — one
+  lighter, one heavier — so you can scale load week to week)
+- A stationary/static bike
+- A sturdy step, stair, or low chair for step-ups
+- Nothing else — no pull-up bar, no gym, no outdoor running required
 
 ## Before you start
 
@@ -34,8 +47,9 @@ same total training stimulus, but changes three things:
   cooldown/stretch.** See [warmup-cooldown.md](plan/warmup-cooldown.md).
 - If you miss a day, don't try to "catch up" — just resume where you left
   off, same as the original plan's advice.
-- Only equipment needed: a pull-up bar (or resistance band for rows), and
-  optionally a stationary bike or open space for the conditioning days.
+- Pick a dumbbell/kettlebell weight where the last 2 reps of a set feel
+  hard but your form stays clean. Increase load only when a full week
+  feels easy at the current weight.
 
 ## Structure
 
@@ -54,14 +68,14 @@ Files in [plan/](plan/):
 
 | Day | Focus | Type |
 |-----|-------|------|
-| 1 | Push | Training |
-| 2 | Pull | Training |
+| 1 | Push | Training (home, bodyweight + dumbbells) |
+| 2 | Pull | Training (home, dumbbells — no bar needed) |
 | 3 | Rest / mobility | Recovery |
-| 4 | Legs | Training (low-impact) |
-| 5 | Conditioning | Training (moderate) |
-| 6 | Optional easy walk | Recovery |
+| 4 | Legs | Training (low-impact, dumbbells + step) |
+| 5 | Conditioning | Training (moderate, static bike) |
+| 6 | Optional easy day | Recovery |
 | 7 | Rest | Recovery |
 
-Repeated for 4 weeks (28 days), with volume increasing modestly each week
-and Week 4 ending in a light, form-based assessment instead of an all-out
-max test.
+Repeated for 4 weeks (28 days), with volume/load increasing modestly each
+week and Week 4 ending in a light, form-based assessment instead of an
+all-out max test.
