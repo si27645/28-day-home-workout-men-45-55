@@ -51,14 +51,35 @@ roughly the same total training stimulus, but changes four things:
   hard but your form stays clean. Increase load only when a full week
   feels easy at the current weight.
 
+## Two phases
+
+- **Phase 1 (Days 1–28)** — the introductory block below. Low volume,
+  built to get joints/tendons re-adapted to load safely. **Not enough
+  stimulus on its own for ongoing muscle growth** — see
+  [plan/phase-2-overview.md](plan/phase-2-overview.md) for why.
+- **Phase 2 (ongoing, after Day 28)** — a 6-day Push/Pull/Legs x2 split
+  (each muscle group trained twice a week) with real progressive overload,
+  meant to be run indefinitely with a deload every 5–6 weeks. Still
+  dumbbells/kettlebells + bike + step only. See
+  [plan/phase-2-overview.md](plan/phase-2-overview.md) and
+  [plan/phase-2-week.md](plan/phase-2-week.md).
+
 ## Structure
 
 Files in [plan/](plan/):
 
-- [plan/overview.md](plan/overview.md) — the weekly template and the
+- [plan/overview.md](plan/overview.md) — Phase 1 weekly template and the
   progression/substitution rules
 - [plan/week-1.md](plan/week-1.md) through
-  [plan/week-4.md](plan/week-4.md) — day-by-day workouts
+  [plan/week-4.md](plan/week-4.md) — Phase 1 day-by-day workouts
+- [plan/phase-2-overview.md](plan/phase-2-overview.md) — why Phase 1 isn't
+  enough for muscle growth, and how Phase 2's progression/recovery/cardio
+  rules work
+- [plan/phase-2-week.md](plan/phase-2-week.md) — the ongoing Push/Pull/Legs
+  x2 weekly template
+- [plan/training-log-template.md](plan/training-log-template.md) — a log
+  format for tracking weight x reps over time (required for double
+  progression to actually work)
 - [plan/warmup-cooldown.md](plan/warmup-cooldown.md) — the warm-up and
   cooldown routine used before/after every training day
 - [plan/original-source.md](plan/original-source.md) — the unmodified
